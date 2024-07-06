@@ -17,4 +17,7 @@ cd Angular18App
 
 ng new Angular18App
 
+ng serve
+ng serve --o
+
 ```
